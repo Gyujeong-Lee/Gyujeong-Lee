@@ -43,7 +43,9 @@
 
 #### 자세한 내용은 포트폴리오 확인해주세요~
 
-[금융 IT 서비스 개발자 이규정 포트폴리오](https://github.com/Gyujeong-Lee/portfolio/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%84%9C%EC%9A%B8_%EA%B8%B0%EC%97%85%EC%97%B0%EA%B3%84%EB%B0%98_%EC%9D%B4%EA%B7%9C%EC%A0%95.pdf)
+[금융 IT 서비스 개발자 이규정 포트폴리오](https://github.com/Gyujeong-Lee/portfolio/blob/master/2022_%EC%9D%B4%EA%B7%9C%EC%A0%95_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+
+
 
 <!--
 **Gyujeong-Lee/Gyujeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
