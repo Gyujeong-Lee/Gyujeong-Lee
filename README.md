@@ -15,7 +15,8 @@
 - 현재는 **Java**와 **Spring**을 공부 중이에요.
   - Python과 Django 개발했던 과거는 잊을게요!
 - **SSAFY** 5기를 수료했어요.
-  - 실력보다 분위기 메이커로 유명했던 사람이었을걸요...?
+  - 1600 시간의 교육 중 800 시간 동안 Web / CS / Algorithm / Data Structure / 언어(Python, JavaScript / 프레임워크 (Django, Vue) 등을 학습했어요.
+  - 나머지 800 시간은 세 차례의 명세 기반 프로젝트(기업연계 프로젝트 포함)를 진행하는 PJT 방식의 교육을 진행했어요. 
 
 
 
