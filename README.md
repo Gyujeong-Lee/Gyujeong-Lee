@@ -1,6 +1,6 @@
 ### 금융 IT 서비스💴💵💶 개발자 이규정입니다. 
 
-> [![gmail](https://img.shields.io/badge/-gmail-red?style=square&logo=gmail&logoColor=white)](href= "mailto:rbwjdsladlek@gmail.com") [![github](https://img.shields.io/badge/-github-black?style=square&logo=github&logoColor=white)](https://github.com/Gyujeong-Lee)
+> [![gmail](https://img.shields.io/badge/-gmail-red?style=square&logo=gmail&logoColor=white)](mailto:rbwjdsladlek@gmail.com) [![github](https://img.shields.io/badge/-github-black?style=square&logo=github&logoColor=white)](https://github.com/Gyujeong-Lee)
 
 
 
