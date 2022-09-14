@@ -12,8 +12,7 @@
   - 재무/회계/금융 영역의 전문 지식을 활용하여 보다 많은 사람들에게 금융의 가치를 느낄 수 있는 서비스를 개발하기 위해서
 - **Backend** 개발자가 될 것입니다!
   - Frontend 개발 경험도 있지만, 시스템 안정화, 효율성을 개선하면서 완성도를 높이는 직무에 흥미를 느꼈어요.
-- 현재는 **Java**와 **Spring**을 공부 중이에요.
-  - Python과 Django 개발했던 과거는 잊을게요!
+- Python, Django, Java, Spring 경험이 있어요!
 - **SSAFY** 5기를 수료했어요.
   - 800시간, Web / CS / Algorithm / Data Structure / 언어(Python, JavaScript) / 프레임워크 (Django, Vue) 등을 학습했어요.
   - 800시간, 세 차례의 명세 기반 프로젝트(기업연계 프로젝트 포함)를 진행하는 PJT 방식의 교육을 진행했어요. 
@@ -22,7 +21,7 @@
 
 #### 📖언어 및 프레임워크
 
-<img src="https://img.shields.io/badge/-python-white?style=square&logo=python"><img src="https://img.shields.io/badge/-Django-white?style=square&logo=django">
+<img src="https://img.shields.io/badge/-python-white?style=square&logo=python"><img src="https://img.shields.io/badge/-java-white?style=square&logo=java"><img src="https://img.shields.io/badge/-Django-white?style=square&logo=django"><img src="https://img.shields.io/badge/-springboot-white?style=square&logo=spring">
 
 <img src="https://img.shields.io/badge/-JavaScript-white?style=square&logo=javascript"> <img src="https://img.shields.io/badge/-Vue.js-white?style=square&logo=Vue.js"> <img src="https://img.shields.io/badge/-React-white?style=square&logo=React">
 
